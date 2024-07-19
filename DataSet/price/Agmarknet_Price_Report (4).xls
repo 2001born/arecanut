@@ -1,0 +1,227 @@
+Min,Max,Modal PriceHanagal from 01-Jan-2014To29-Jun-2024 (Total-10) (Total-10)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">30 Aug 2019</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">16000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">16000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">16000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">24 Jan 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">16500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">16500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">16500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">01 Sep 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">19000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">29000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">19000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">27 Jul 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">20 Dec 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">31 Jul 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">25000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">25000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">24 Jun 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">21500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">21500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">21500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">10 Aug 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">01 Aug 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Haveri</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Hanagal</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Chali</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">25000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">27500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">25000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">08 Jul 2020</span>
+                                </td>
+		</tr>
+	</table>
+</div>

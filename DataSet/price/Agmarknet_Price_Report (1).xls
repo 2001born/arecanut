@@ -1,0 +1,139 @@
+Min,Max,Modal PriceHassan from 01-Jan-2014To29-Jun-2024 (Total-6) (Total-6)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">7500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">7500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">7500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">16 Mar 2019</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">10500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">10500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">10500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">19 Jul 2019</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">27 Nov 2019</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">31 Dec 2019</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">21000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">24 Nov 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Hassan</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">22000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">28 Jan 2019</span>
+                                </td>
+		</tr>
+	</table>
+</div>

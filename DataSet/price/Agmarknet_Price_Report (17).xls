@@ -1,0 +1,513 @@
+Min,Max,Modal PriceNippani from 01-Jan-2014To29-Jun-2024 (Total-23) (Total-23)<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridPriceData" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:DarkGray;font-weight:bold;">
+			<th scope="col">Sl no.</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Commodity</th><th scope="col">Variety</th><th scope="col">Grade</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Price Date</th>
+		</tr><tr>
+			<td>
+                                                1
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_0">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_0">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_0">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_0">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_0">7000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_0">7000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_0">7000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_0">04 Feb 2015</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                2
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_1">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_1">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_1">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_1">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_1">10000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_1">10000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_1">10000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_1">03 Jan 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                3
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_2">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_2">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_2">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_2">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_2">12737</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_2">12737</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_2">12737</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_2">20 Jun 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                4
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_3">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_3">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_3">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_3">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_3">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_3">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_3">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_3">27 May 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                5
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_4">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_4">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_4">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_4">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_4">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_4">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_4">13000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_4">27 Nov 2015</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                6
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_5">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_5">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_5">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_5">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_5">13102</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_5">13102</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_5">13102</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_5">28 Feb 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                7
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_6">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_6">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_6">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_6">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_6">13400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_6">13400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_6">13400</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_6">17 Mar 2015</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                8
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_7">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_7">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_7">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_7">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_7">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_7">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_7">14000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_7">29 May 2015</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                9
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_8">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_8">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_8">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_8">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_8">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_8">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_8">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_8">25 Nov 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                10
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_9">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_9">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_9">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_9">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_9">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_9">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_9">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_9">17 Jul 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                11
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_10">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_10">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_10">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_10">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_10">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_10">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_10">15430</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_10">22 Sep 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                12
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_11">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_11">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_11">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_11">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_11">16100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_11">16100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_11">16100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_11">27 May 2015</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                13
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_12">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_12">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_12">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_12">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_12">19000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_12">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_12">19000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_12">05 Oct 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                14
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_13">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_13">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_13">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_13">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_13">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_13">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_13">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_13">24 Jun 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                15
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_14">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_14">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_14">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_14">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_14">28500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_14">28500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_14">28500</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_14">28 Oct 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                16
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_15">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_15">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_15">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Other</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_15">Medium</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_15">24000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_15">24000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_15">24000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_15">11 Oct 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                17
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_16">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_16">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_16">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_16">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_16">10100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_16">10100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_16">10100</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_16">28 Feb 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                18
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_17">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_17">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_17">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_17">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_17">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_17">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_17">15000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_17">30 Mar 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                19
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_18">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_18">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_18">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">Red</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_18">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_18">15700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_18">15700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_18">15700</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_18">29 May 2018</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                20
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_19">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_19">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_19">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">Supari</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_19">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_19">17484</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_19">18404</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_19">17982</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_19">31 Mar 2016</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                21
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_20">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_20">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_20">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">Supari</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_20">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_20">18000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_20">18000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_20">18000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_20">23 Oct 2020</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                22
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_21">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_21">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_21">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">Supari</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_21">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_21">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_21">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_21">20000</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_21">27 Jun 2017</span>
+                                </td>
+		</tr><tr>
+			<td>
+                                                23
+                                            </td><td>
+                                    <span id="cphBody_GridPriceData_Labdistrict_name_22">Belgaum</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdMarketName_22">Nippani</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labcomm_name_22">Arecanut(Betelnut/Supari)</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">Supari</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabdVariety_22">FAQ</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabMinPrice_22">33890</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_Labmaxpric_22">33890</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabModalpric_22">33890</span>
+                                </td><td>
+                                    <span id="cphBody_GridPriceData_LabReportedDate_22">20 Feb 2020</span>
+                                </td>
+		</tr>
+	</table>
+</div>
